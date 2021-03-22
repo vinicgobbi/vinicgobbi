@@ -7,4 +7,4 @@ Sou um novato na programação
 - 🎶 Gosto de sertanejo
 
 <img align="right" alt="Logo Github" height="170px" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png">
-<img align="left" alt="Logo Python" height="170px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKE5n8kjLnZiVXM1neqyYWilJ2F-ka9V3duw&usqp=CAU">
+<img align="left" alt="Logo Python" height="170px" src="https://cdn.discordapp.com/attachments/806642907263139850/823365395330105344/269-2691398_python-logo-clipart-transparent-background-png-download-removebg-preview.png">
