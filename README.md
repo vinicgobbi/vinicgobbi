@@ -6,4 +6,4 @@ Sou um novato na programação
 - 💻 Atualmete programando no Linux(Ubuntu)
 - 🎶 Gosto de sertanejo
 
-<img align="right" alt="Logo Github" height="170px" src="https://www.google.com/search?q=github&sxsrf=ALeKk01lzEwV3oagXcssqgPXUQPJCbWO_Q:1616375007916&tbm=isch&source=iu&ictx=1&fir=AMuIqAsGICWiQM%252CTXCcjLeV5gKBaM%252C%252Fm%252F0ryppmg&vet=1&usg=AI4_-kSTKUVKsBsWepukiaG_SVlM2EEEwA&sa=X&ved=2ahUKEwiW-a2R2sLvAhWeHrkGHfOwAboQ_B16BAg8EAI#imgrc=AMuIqAsGICWiQM">
+<img align="right" alt="Logo Github" height="170px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fgithub-logo%2F&psig=AOvVaw2g7xiuk9kKVZgD48fMxl_Y&ust=1616461793451000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi1j8vbwu8CFQAAAAAdAAAAABAD">
