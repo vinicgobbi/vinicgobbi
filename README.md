@@ -6,7 +6,7 @@
 - 💻 Atualmete programando no Linux(Arch)
 - 🎶 Gosto de sertanejo
 
- <a href="https://github.com/Androwinbr/Dotfiles">
+ <a href="https://github.com/Androwinbr">
     <img align="left" alt="Meu github" height="50px" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png">
   </a>
 
