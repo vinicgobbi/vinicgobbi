@@ -3,7 +3,7 @@
 ## Sou um novato na programação
 
 - 🔭 Atualmente aprendendo python, depois pretendo me aprofundar cada vez mais em outras linguas
-- 💻 Atualmete programando no Linux(Ubuntu)
+- 💻 Atualmete programando no Linux(Arch)
 - 🎶 Gosto de sertanejo
 
  <a href="https://github.com/Androwinbr/Dotfiles">
@@ -16,4 +16,8 @@
   
  <a href="https://opentechlife.tk/">
     <img align="left" alt="OpenTech life" height="80px" src="https://cdn.discordapp.com/attachments/806642907263139850/854044332142886953/photo_2021-06-14_13-55-23-removebg-preview1.png">
+  </a>
+
+   <a href="https://gitlab.com/vinicius.cgobbi2004">
+    <img align="left" alt="Meu Gitlab" height="80px" src="https://cdn.discordapp.com/attachments/806642907263139850/854045922244689960/iu-removebg-preview.png">
   </a>
