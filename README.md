@@ -21,3 +21,5 @@
    <a href="https://gitlab.com/vinicius.cgobbi2004">
     <img align="left" alt="Meu Gitlab" height="80px" src="https://cdn.discordapp.com/attachments/806642907263139850/854045922244689960/iu-removebg-preview.png">
   </a>
+
+![](https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&hide_border=false)
