@@ -3,7 +3,7 @@
 ## Sou um novato na programação
 
 - 🔭 Atualmente aprendendo python, depois pretendo me aprofundar cada vez mais em outras linguas
-- 💻 Atualmete programando no Linux(Open Suse Tumbleweed)
+- 💻 Atualmete programando no Linux
 - 🎶 Gosto de sertanejo
 
  <a href="https://github.com/Androwinbr">
