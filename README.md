@@ -26,4 +26,4 @@
   <br/><br/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
