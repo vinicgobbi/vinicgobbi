@@ -7,8 +7,8 @@
 - ### 🎶 Gosto de sertanejo
 
 <div align="center">
-  <a href="https://github.com/Androwinbr">
-    <img alt="Profile" src="https://img.shields.io/badge/androwinbr-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/Viniciuscgobbi">
+    <img alt="Profile" src="https://img.shields.io/badge/Viniciuscgobbi-%2322252f?style=for-the-badge" />
   </a>
   <br/>
   <a href="https://github.com/Androwinbr/Dotfiles">
