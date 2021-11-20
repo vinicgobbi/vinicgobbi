@@ -28,5 +28,5 @@
 
 <div align="center">
   <a href="https://github.com/Androwinbr">
-    <img alt="Profile Stats" height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
-    <img alt="Most Used Langs" height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Androwinbr&layout=compact&langs_count=7&theme=nord">
+    <img alt="Profile Stats" height="180" width="360" src="https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
+    <img alt="Most Used Langs" height="180" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Androwinbr&layout=compact&langs_count=7&theme=nord">
