@@ -27,3 +27,4 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Androwinbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Androwinbr&layout=compact&langs_count=7&theme=nord)
