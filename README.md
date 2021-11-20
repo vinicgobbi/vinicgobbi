@@ -11,7 +11,7 @@
     <img alt="Profile" src="https://img.shields.io/badge/Viniciuscgobbi-%2322252f?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/Androwinbr/Dotfiles">
+  <a href="https://github.com/Viniciuscgobbi/Dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://gitlab.com/vinicius.cgobbi2004">
