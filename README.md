@@ -1,5 +1,9 @@
 # Eae meu nome é Vinicius 🙂️
 
+----
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Viniciuscgobbi.Viniciuscgobbi)
+----
+
 <div align="center">
   <a href="https://github.com/Viniciuscgobbi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Viniciuscgobbi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
