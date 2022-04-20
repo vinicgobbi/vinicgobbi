@@ -35,9 +35,6 @@
  
   ##
   
-  ![Snake animation](https://github.com/Viniciuscgobbi/Viniciuscgobbi/blob/output/github-contribution-grid-snake.svg)
-
-  <iframe width="450" height="280" src="https://www.tinkercad.com/embed/bEF4ka85N4B" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">       </iframe>
-  
+  ![Snake animation](https://github.com/Viniciuscgobbi/Viniciuscgobbi/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
