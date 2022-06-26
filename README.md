@@ -1,40 +1,56 @@
-# Eae meu nome é Vinicius 🙂️
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-----
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Viniciuscgobbi.Viniciuscgobbi)
-----
+###
 
 <div align="center">
-  <a href="https://github.com/Viniciuscgobbi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Viniciuscgobbi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgobbi&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=viniciuscgobbi" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=viniciuscgobbi" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/806642907263139850/917209212969418802/profile.jpg">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
 </div>
 
-  ##
+###
 
-  ### 🖥️ Redes sociais:
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UClHEUWReZI_uxuXs0J7NEpQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vinicius_cavati/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/androwinbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vinicius.cgobbi2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ##
-  
-  ### 🏆️ Troféus do Github
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Viniciuscgobbi&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
- 
-  ##
-  
-  ![Snake animation](https://github.com/Viniciuscgobbi/Viniciuscgobbi/blob/output/github-contribution-grid-snake.svg)  
+<div align="left">
+  <a href="https://www.instagram.com/v1ni.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/androwinbr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://t.me/opentechlife" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="mailto:vinicius.cgobbi2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-cavati-gobbi-046272225/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/viniciuscgobbi/viniciuscgobbi/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21eccoudizoaregspurapvjfq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
