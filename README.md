@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/viniciuscgobbi/viniciuscgobbi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img href="https://github.com/viniciuscgobbi/viniciuscgobbi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
