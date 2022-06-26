@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Vinícius and I'm a Student, from Brasil</h2>
 
 ###
 
@@ -37,7 +37,6 @@
 
 ###
 
----
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
