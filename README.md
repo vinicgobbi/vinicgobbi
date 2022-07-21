@@ -1,4 +1,10 @@
-<h2 align="left">Hi ðŸ‘‹! My name is VinÃ­cius and I'm a Student, from Brasil</h2>
+## Oi meu nome é Vinícius sou um estudante Brasileiro...
+Linux User
+ “Talk is cheap. Show me the code.” - Linus Torvalds
+01/10/2004
+Marechal Floriano - ES
+Focado nos estudos
+ Solteiro
 
 ---
 
