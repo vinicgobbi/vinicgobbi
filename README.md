@@ -1,10 +1,15 @@
-## Oi meu nome é Vinícius sou um estudante Brasileiro...
-Linux User
- “Talk is cheap. Show me the code.” - Linus Torvalds
-01/10/2004
-Marechal Floriano - ES
-Focado nos estudos
- Solteiro
+## Oi meu nome ï¿½ Vinï¿½cius sou um estudante Brasileiro...
+ğŸ’» Linux User
+
+ğŸ’­ "Talk is cheap. Show me the code." - Linus Torvalds
+
+ğŸ‰ 01/10/2004
+
+ğŸŒƒ Marechal Floriano - ES
+
+ğŸ“’ Focado nos estudos
+
+â¤ï¸ Solteiro
 
 ---
 
