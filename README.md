@@ -9,6 +9,8 @@
 
 📒 Focado nos estudos
 
+🏫 EEEFM Emílio Oscar Huller
+
 ❤️ Solteiro
 
 ---
