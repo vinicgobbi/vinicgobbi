@@ -1,5 +1,5 @@
 ## Oi meu nome é Vinícius sou um estudante Brasileiro...
-💻 Windows User
+💻 Windows/Linux User
 
 💭 "Talk is cheap. Show me the code." - Linus Torvalds
 
