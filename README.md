@@ -7,6 +7,10 @@ print("Hello everyone, my name is Vinícius!")
 - Studying Computer Science at [FAESA](https://www.faesa.br/)
 - I like retro games
 
+## Contact-Me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.cgobbi@hotmail.com)
+
 ## Language and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=git,bash,python,js,linux,lua,arduino,vscode,github&theme=light)
