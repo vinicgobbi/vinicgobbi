@@ -1,67 +1,27 @@
-## Oi meu nome é Vinícius sou um estudante Brasileiro...
-💻 Windows/Linux User
+```python
+print("Hello everyone, my name is Vinícius!")
+```
+## Basic Info:
 
-💭 "Talk is cheap. Show me the code." - Linus Torvalds
+- Linux User
+- Studying Computer Science at [FAESA](https://www.faesa.br/)
+- I like retro games
 
-🎉 01/10/2004
+## Language and Tools:
 
-🌃 Marechal Floriano - ES
+![My Skills](https://skillicons.dev/icons?i=git,bash,python,js,linux,lua,arduino,vscode,github&theme=light)
 
-📒 Focado nos estudos
+## Operating systems used on daily drive:
 
-🏫 EEEFM Emílio Oscar Huller
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-❤️ Solteiro
+## Github Stats:
 
----
+![Github Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=viniciuscgobbi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgobbi&langs_count=15&layout=compact&card_width=400px&theme=dracula)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=viniciuscgobbi" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=viniciuscgobbi" height="150" alt="languages graph"  />
-</div>
+## Misc:
 
----
+!["Discord Banner"](https://discord.c99.nl/widget/theme-1/582357574796443659.png)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
+!["Snake Animation"](https://raw.githubusercontent.com/Viniciuscgobbi/Viniciuscgobbi/output/github-contribution-grid-snake.svg)
 
----
-
-<div align="left">
-  <a href="https://www.instagram.com/v1ni.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/androwinbr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://t.me/opentechlife" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="mailto:vinicius.cgobbi2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-cavati-gobbi-046272225/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
----
-
-
-###
-
-<br clear="both">
-
-!["Snake Animation"](https://github.com/Viniciuscgobbi/Viniciuscgobbi/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21eccoudizoaregspurapvjfq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
