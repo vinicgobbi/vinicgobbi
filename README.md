@@ -21,7 +21,7 @@ print("Hello everyone, my name is Vinícius!")
 
 ## Github Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=viniciuscgobbi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgobbi&langs_count=15&layout=compact&card_width=400px&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&layout=compact&card_width=400px&theme=dracula)
 
 ## Misc:
 
