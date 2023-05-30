@@ -25,7 +25,5 @@ print("Hello everyone, my name is Vinícius!")
 
 ## Misc:
 
-!["Discord Banner"](https://discord.c99.nl/widget/theme-1/582357574796443659.png)
-
 !["Snake Animation"](https://raw.githubusercontent.com/Viniciuscgobbi/Viniciuscgobbi/output/github-contribution-grid-snake.svg)
 
