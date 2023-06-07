@@ -21,7 +21,7 @@ print("Hello everyone, my name is Vinícius!")
 
 ## Github Stats:
 
-[![Github Stats](https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi) ![Top Langs](https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&layout=compact&card_width=400px&theme=dracula)](https://github.com/vinicgobbi)
+[![Github Stats](https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=600px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi) ![Top Langs](https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&layout=compact&card_width=600px&theme=dracula)](https://github.com/vinicgobbi)
 
 ## Misc:
 
