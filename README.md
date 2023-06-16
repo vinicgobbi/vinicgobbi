@@ -4,7 +4,7 @@ print("Hello everyone, my name is Vinícius!")
 ## Basic Info:
 
 - Linux User
-- Studying Computer Science at [FAESA](https://www.faesa.br/)
+- Studying Computer Science at [Faesa](https://www.faesa.br/)
 - I like retro games
 
 ## Contact-Me:
