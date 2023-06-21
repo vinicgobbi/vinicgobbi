@@ -3,7 +3,6 @@ print("Hello everyone, my name is Vinícius!")
 ```
 ## Basic Info:
 
-- Linux User
 - Studying Computer Science at [Faesa](https://www.faesa.br/)
 - I like retro games
 
@@ -17,7 +16,7 @@ print("Hello everyone, my name is Vinícius!")
 
 ## Operating systems used on daily drive:
 
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/)
 
 ## Github Stats:
 
