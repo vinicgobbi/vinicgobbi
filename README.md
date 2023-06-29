@@ -12,7 +12,7 @@ print("Hello everyone, my name is Vinícius!")
 
 ## Language and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,python,js,linux,lua,arduino,vscode,github&theme=light)](https://github.com/vinicgobbi)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,python,js,linux,vscode,github&theme=light)](https://github.com/vinicgobbi)
 
 ## Operating systems used on daily drive:
 
