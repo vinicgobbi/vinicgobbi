@@ -1,5 +1,5 @@
-```python
-print("Hello everyone, my name is Vinícius!")
+```csharp
+Console.WriteLine("Hello everyone, my name is Vinícius!"); //Shall we study C#?
 ```
 ## Basic Info:
 
