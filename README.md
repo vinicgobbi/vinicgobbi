@@ -22,6 +22,10 @@ Console.WriteLine("Hello everyone, my name is Vinícius!"); //Shall we study C#?
 
 [![Github Stats](https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi) ![Top Langs](https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula)](https://github.com/vinicgobbi)
 
+## Spotify Recently Played:
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq)](https://github.com/vinicgobbi)
+
 ## Misc:
 
 [!["Snake Animation"](https://raw.githubusercontent.com/Viniciuscgobbi/Viniciuscgobbi/output/github-contribution-grid-snake.svg)](https://github.com/vinicgobbi)
