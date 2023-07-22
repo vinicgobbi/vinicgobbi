@@ -29,5 +29,5 @@ Console.WriteLine("Hello everyone, my name is Vinícius!"); //Shall we study C#?
 
 ## Misc:
 
-[!["Snake Animation"](https://raw.githubusercontent.com/Viniciuscgobbi/Viniciuscgobbi/output/github-contribution-grid-snake.svg)](https://github.com/vinicgobbi)
+[!["Snake Animation"](https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg)](https://github.com/vinicgobbi)
 
