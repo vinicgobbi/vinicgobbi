@@ -1,37 +1,69 @@
-```csharp
-Console.WriteLine("Hello everyone, my name is Vinícius!"); //Shall we study C#?
+```java
+class main{
+    public static void main(String[] args){
+        System.out.println("Welcome to my Github!!")
+    }
+}
 ```
-## Basic Info:
+<h2>Basic Info:</h2>
+<ul>
+    <li> Studying Computer Science at <a href="https://faesa.br">FAESA</a></li>
+    <li>I like retro games</li>
+</ul>
 
-- Studying Computer Science at [Faesa](https://www.faesa.br/)
-- I like retro games
+<h2>Contact-me</h2>
 
-## Contact-Me:
+<div>
+    <a href="mailto:vinicius.cgobbi2004@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/vinicgobbi">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:vinicius.cgobbi@hotmail.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    </a>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.cgobbi@hotmail.com)
+<h2>Language and Tools:</h2>
 
-## Language and Tools:
+<div>
+    <a href="https://github.com/vinicgobbi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+    </a>
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,python,js,linux,vscode,github&theme=light)](https://github.com/vinicgobbi)
+<h2>Github Stats:</h2>
 
-## Operating systems used on daily drive:
+<div>
+    <a href="https://github.com/vinicgobbi">
+        <img src="https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi" alt="Github Stats">
+        <br>
+        <img src="https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula" alt="Top Langs">
+    </a>
+</div>
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/)
+<h2>Operating systems used on daily drive:</h2>
 
+<div>
+    <a href="https://www.microsoft.com/pt-br/windows">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    </a>
+    <a href="https://www.android.com/intl/pt-BR_br">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    </a>
+</div>
 
-## Github Stats:
+<h2>Misc:</h2>
 
-[![Github Stats](https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi)
-![Top Langs](https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula)](https://github.com/vinicgobbi)
-
-## Spotify Recently Played:
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq)](https://github.com/vinicgobbi)
-
-## Misc:
-
-[!["Snake Animation"](https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg)](https://github.com/vinicgobbi)
-
+<div>
+    <a href="https://github.com/vinicgobbi">
+        <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
+    </a>
+</div>
