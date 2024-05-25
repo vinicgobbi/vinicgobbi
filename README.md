@@ -52,17 +52,13 @@ class main{
 <h2>Operating systems used on daily drive:</h2>
 
 <div>
-    <a href="https://www.microsoft.com/pt-br/windows">
-        <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="Pop!_OS Linux">
+    <a href="https://fedoraproject.org/atomic-desktops/silverblue/">
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Silverblue">
     </a>
     <a href="https://www.android.com/intl/pt-BR_br">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
     </a>
 </div>
-
-<h2>Spotify Recently Played:</h2>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq" alt="Spotify Recently Played Musics!">
-
 
 <h2>Misc:</h2>
 
