@@ -64,8 +64,8 @@ class main{
 
 <div>
     <a href="https://github.com/vinicgobbi">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq" style="widht: 400px; height: 400px;">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=21eccoudizoaregspurapvjfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Listening" style="widht: 400px; height: 400px;">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq" style="widht: 400px; height: 400px;">
     </a>
     <a href="https://github.com/vinicgobbi">
         <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
