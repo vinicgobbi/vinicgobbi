@@ -26,6 +26,17 @@ class main{
     </a>
 </div>
 
+<h2>Operating systems used on daily drive:</h2>
+
+<div>
+    <a href="https://fedoraproject.org/atomic-desktops/silverblue/">
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Silverblue">
+    </a>
+    <a href="https://www.android.com/intl/pt-BR_br">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    </a>
+</div>
+
 <h2>Language and Tools:</h2>
 
 <div>
@@ -50,16 +61,7 @@ class main{
     </a>
 </div>
 
-<h2>Operating systems used on daily drive:</h2>
 
-<div>
-    <a href="https://fedoraproject.org/atomic-desktops/silverblue/">
-        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Silverblue">
-    </a>
-    <a href="https://www.android.com/intl/pt-BR_br">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    </a>
-</div>
 
 <h2>Misc:</h2>
 
