@@ -7,7 +7,8 @@ class main{
 ```
 <h2>Basic Info:</h2>
 <ul>
-    <li> Studying Computer Science at <a href="https://faesa.br">FAESA</a></li>
+    <li>Studying Computer Science at <a href="https://faesa.br">FAESA</a></li>
+    <li>Working at <a href="https://oifrango.com.br">Oi Frango</a> as a PCM assistant</li>
     <li>I like retro games</li>
 </ul>
 
