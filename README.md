@@ -1,18 +1,18 @@
 ```java
 class main{
     public static void main(String[] args){
-        System.out.println("Welcome to my Github!!")
+        System.out.println("Bem-vindo ao meu Github!!")
     }
 }
 ```
-<h2>Basic Info:</h2>
+<h2>Informações básicas:</h2>
 <ul>
-    <li>Studying Computer Science at <a href="https://faesa.br">FAESA</a></li>
-    <li>Working at <a href="https://oifrango.com.br">Oi Frango</a> as a PCM assistant</li>
-    <li>I like retro games</li>
+    <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
+    <li>Trabalhando na <a href="https://oifrango.com.br">Oi Frango</a> como Auxiliar de PCM</li>
+    <li>Eu amo Jogos retrô</li>
 </ul>
 
-<h2>Contact-me</h2>
+<h2>Contato</h2>
 
 <div>
     <a href="mailto:vinicius.cgobbi2004@gmail.com">
@@ -26,28 +26,25 @@ class main{
     </a>
 </div>
 
-<h2>Operating systems used on daily drive:</h2>
+<h2>Sistemas operacionais usados no dia a dia:</h2>
 
 <div>
     <a href="https://fedoraproject.org/atomic-desktops/silverblue/">
-        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Silverblue">
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation">
+    </a>
+    <a href="https://www.microsoft.com/windows/">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
     </a>
     <a href="https://www.android.com/intl/pt-BR_br">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
     </a>
 </div>
 
-<h2>Language and Tools:</h2>
+<h2>Linguagens e ferramentas:</h2>
 
 <div>
     <a href="https://github.com/vinicgobbi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white; border-radius:10px; padding: 2px" height=40/>
+        <img src="https://skillicons.dev/icons?i=git,bash,python,js,linux,vscode&theme=light">
     </a>
 </div>
 
