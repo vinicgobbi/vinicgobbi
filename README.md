@@ -65,6 +65,9 @@ class main{
 
 <div>
     <a href="https://github.com/vinicgobbi">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=21eccoudizoaregspurapvjfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Listening">
+    </a>
+    <a href="https://github.com/vinicgobbi">
         <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
     </a>
 </div>
