@@ -8,7 +8,7 @@ class main{
 <h2>Informações básicas:</h2>
 <ul>
     <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
-    <li>Trabalhando na <a href="https://oifrango.com.br">Oi Frango</a> como Auxiliar de PCM</li>
+    <li>Trabalhando na <a href="https://oifrango.com.br">Oi Frango</a> como Assistente de PCM</li>
     <li>Eu amo Jogos retrô</li>
 </ul>
 
