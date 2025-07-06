@@ -29,15 +29,12 @@ class main{
 <h2>Sistemas operacionais usados no dia a dia:</h2>
 
 <div>
-    <a href="https://fedoraproject.org/atomic-desktops/silverblue/">
-        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation">
-    </a>
-    <a href="https://www.microsoft.com/windows/">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    </a>
-    <a href="https://www.android.com/intl/pt-BR_br">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    </a>
+	<h1>
+		<ul>
+			<li><a href="https://vanillaos.org" style="color: white;">Vanilla OS</a></li>
+			<li><a href="https://www.microsoft.com/pt-br/windows/" style="color: white;">Windows 11</a></li>
+		</ul>
+	</h1>
 </div>
 
 <h2>Linguagens e ferramentas:</h2>
