@@ -49,9 +49,9 @@ class main{
 
 <div>
     <a href="https://github.com/vinicgobbi">
-        <img src="https://github-readme-stats-blond-alpha.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi" alt="Github Stats">
+        <img src="https://github-readme-stats-ndsv.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi&exclude_repo=github-readme-stats" alt="Github Stats">
         <br>
-        <img src="https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula" alt="Top Langs">
+        <img src="https://github-readme-stats-ndsv.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula&exclude_repo=github-readme-stats" alt="Top Langs">
     </a>
 </div>
 
