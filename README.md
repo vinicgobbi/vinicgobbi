@@ -1,10 +1,10 @@
-```java
-class main{
-    public static void main(String[] args){
-        System.out.println("Bem-vindo ao meu Github!!")
-    }
-}
+```php
+
+<span>Olá {{ $user }} 👋</span>
+<p>Esse aqui é meu github, seja muito bem vindo!</p>
+
 ```
+
 <h2>Informações básicas:</h2>
 <ul>
     <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
@@ -29,19 +29,22 @@ class main{
 <h2>Sistemas operacionais usados no dia a dia:</h2>
 
 <div>
-	<h1>
-		<ul>
-			<li><a href="https://vanillaos.org" style="color: white;">Vanilla OS</a></li>
-			<li><a href="https://www.microsoft.com/pt-br/windows/" style="color: white;">Windows 11</a></li>
-		</ul>
-	</h1>
+    <a href="https://archlinux.org/">
+        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
+    </a>
+    <a href="https://www.apple.com/br/macos/macos-sequoia/">
+        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS">
+    </a>
+    <a href="https://www.microsoft.com/pt-br/windows/windows-11">
+        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
+    </a>
 </div>
 
 <h2>Linguagens e ferramentas:</h2>
 
 <div>
     <a href="https://github.com/vinicgobbi">
-        <img src="https://skillicons.dev/icons?i=git,bash,python,js,linux,vscode&theme=light">
+        <img src="https://skillicons.dev/icons?i=git,github,php,laravel,html,css,js,nodejs,linux,vscode&theme=light">
     </a>
 </div>
 
