@@ -1,4 +1,4 @@
-```php
+```blade
 
 <span>Olá {{ $user }} 👋</span>
 <p>Esse aqui é meu github, seja muito bem vindo!</p>
@@ -70,3 +70,4 @@
         <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
     </a>
 </div>
+
