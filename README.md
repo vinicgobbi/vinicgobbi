@@ -29,8 +29,8 @@
 <h2>Sistemas operacionais usados no dia a dia:</h2>
 
 <div>
-    <a href="https://archlinux.org/">
-        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
+    <a href="https://zorin.com/os/">
+        <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS">
     </a>
     <a href="https://www.microsoft.com/pt-br/windows/windows-11">
         <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
