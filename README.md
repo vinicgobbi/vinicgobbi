@@ -1,9 +1,5 @@
-```blade
 
-<span>Olá {{ $user }} 👋</span>
-<p>Esse aqui é meu github, seja muito bem vindo!</p>
-
-```
+<span>Olá, me chamo Vinícius</span>
 
 <h2>Informações básicas:</h2>
 <ul>
@@ -67,4 +63,5 @@
         <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
     </a>
 </div>
+
 
