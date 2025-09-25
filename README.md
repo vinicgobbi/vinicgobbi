@@ -2,7 +2,7 @@
 
 ```sh
 vinicius at github
--> echo "Seja bem vindo ao meu github!"
+~ > echo "Seja bem vindo ao meu github!"
 ```
 
 <h2>Informações básicas:</h2>
