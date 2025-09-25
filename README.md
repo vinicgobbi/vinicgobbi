@@ -1,5 +1,9 @@
+<h1>Olá, eu me chamo Vinícius!</h1>
 
-<span>Olá, me chamo Vinícius</span>
+```sh
+vinicius at github
+-> echo "Seja bem vindo ao meu github!"
+```
 
 <h2>Informações básicas:</h2>
 <ul>
@@ -63,5 +67,3 @@
         <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
     </a>
 </div>
-
-
