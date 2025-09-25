@@ -9,6 +9,8 @@ vinicius at github
 <ul>
     <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
     <li>Atuando na <a href="https://faesa.br">FAESA</a> como Estágiario de TI</li>
+    <li>Usuário de Linux 💻🐧</li>
+    <li>Amo Tecnologia</li>
     <li>Eu amo Jogos retrô</li>
 </ul>
 
