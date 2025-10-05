@@ -45,42 +45,32 @@ vinicius at github
 ### ⚙️ Minhas Stacks
 
 #### 🧠 Linguagens
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> 
 
-#### ⚛️ Frameworks & Bibliotecas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-</p>
+#### 🧩 Frameworks & Bibliotecas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/> 
 
 #### 🗄️ Banco de Dados & API
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/> 
 
-#### 🧩 DevOps & Versionamento
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-</p>
+#### 🧰 DevOps & Versionamento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);"/> 
 
 #### 💻 Ambiente & Ferramentas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="Windows 11" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-plain-wordmark.svg" title="ZSH" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-plain.svg" width="45" style="filter: invert(1);"/>
 
 ---
 
