@@ -1,71 +1,107 @@
-<h1>Olá, eu me chamo Vinícius!</h1>
+<h1 align="center">👋 Olá, eu me chamo Vinícius!</h1>
 
 ```sh
 vinicius at github
-~ > echo "Seja bem vindo ao meu github!"
+~ > echo "Seja bem-vindo ao meu GitHub!"
 ```
 
-<h2>Informações básicas:</h2>
-<ul>
-    <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
-    <li>Atuando na <a href="https://faesa.br">FAESA</a> como Estágiario de TI</li>
-    <li>Usuário de Linux 💻🐧</li>
-    <li>Amo Tecnologia</li>
-    <li>Eu amo Jogos retrô</li>
-</ul>
+---
 
-<h2>Contato</h2>
+### 🧾 Informações básicas
 
-<div>
-    <a href="mailto:vinicius.cgobbi2004@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/vinicgobbi">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:vinicius.cgobbi@hotmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-</div>
+- 🎓 Estudando Ciência da Computação na [FAESA](https://faesa.br)  
+- 💼 Atuando na [FAESA](https://faesa.br) como Estagiário de TI  
+- 🐧 Usuário de Linux  
+- 💡 Apaixonado por tecnologia  
+- 🕹️ Fã de jogos retrô  
 
-<h2>Sistemas operacionais usados no dia a dia:</h2>
+---
 
-<div>
-    <a href="https://zorin.com/os/">
-        <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS">
-    </a>
-    <a href="https://www.microsoft.com/pt-br/windows/windows-11">
-        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
-    </a>
-</div>
+### 📫 Contato
 
-<h2>Linguagens e ferramentas:</h2>
+<a href="mailto:vinicius.cgobbi2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/vinicgobbi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:vinicius.cgobbi@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://skillicons.dev/icons?i=git,github,php,laravel,html,css,js,nodejs,linux,vscode&theme=light">
-    </a>
-</div>
+---
 
-<h2>Github Stats:</h2>
+### 💻 Sistemas Operacionais usados no dia a dia
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://github-readme-stats-ndsv.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi&exclude_repo=github-readme-stats" alt="Github Stats">
-        <br>
-        <img src="https://github-readme-stats-ndsv.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula&exclude_repo=github-readme-stats" alt="Top Langs">
-    </a>
-</div>
+<a href="https://zorin.com/os/">
+  <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS">
+</a>
+<a href="https://www.microsoft.com/pt-br/windows/windows-11">
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
+</a>
 
+---
 
+### ⚙️ Minhas Stacks
 
-<h2>Misc:</h2>
+#### 🧠 Linguagens
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+</p>
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq" style="widht: 400px; height: 400px;">
-    </a>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
-    </a>
-</div>
+#### ⚛️ Frameworks & Bibliotecas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+</p>
+
+#### 🗄️ Banco de Dados & API
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+</p>
+
+#### 🧩 DevOps & Versionamento
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+</p>
+
+#### 💻 Ambiente & Ferramentas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="Windows 11" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-plain-wordmark.svg" title="ZSH" width="55" height="55" style="background:#fff;border-radius:12px;padding:8px;margin:6px;"/>
+</p>
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-ndsv.vercel.app/api?username=vinicgobbi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false&card_width=470px" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-ndsv.vercel.app/api/top-langs/?username=vinicgobbi&langs_count=10&theme=dracula&card_width=470px" alt="Top Langs" />
+</p>
+
+---
+
+### 🎵 Misc
+
+<p align="center">
+  <a href="https://github.com/vinicgobbi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21eccoudizoaregspurapvjfq" width="400" height="400" alt="Spotify Activity">
+  </a>
+  <br/>
+  <a href="https://github.com/vinicgobbi">
+    <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
+  </a>
+</p>
