@@ -32,10 +32,10 @@ vinicius at github
 
 <div>
     <a href="https://kernel.org">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Zorin OS">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     </a>
-    <a href="https://www.microsoft.com/pt-br/windows/windows-11">
-        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
+    <a href="https://www.microsoft.com/pt-br/windows/">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
     </a>
 </div>
 
@@ -67,3 +67,4 @@ vinicius at github
     </a>
 
 </div>
+
