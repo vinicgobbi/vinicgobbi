@@ -1,70 +1,41 @@
-<h1>Olá, eu me chamo Vinícius!</h1>
+# Olá, eu me chamo Vinícius
 
 ```sh
 vinicius at github
 -> echo "Seja bem vindo ao meu github!"
 ```
 
-<h2>Informações básicas:</h2>
-<ul>
-    <li>Estudando Ciência da computação na <a href="https://faesa.br">FAESA</a></li>
-    <li>Atuando na <a href="https://faesa.br">FAESA</a> como Estágiario de TI</li>
-    <li>Usuário de Linux 💻🐧</li>
-    <li>Amo Tecnologia</li>
-    <li>Eu amo Jogos retrô</li>
-</ul>
+## Informações básicas
 
-<h2>Contato</h2>
+- Estudando Ciência da computação na [FAESA](https://faesa.br)
+- Atuando na [FAESA](https://faesa.br) como Estágiario de TI
+- Usuário de Linux 💻🐧
+- Amo Tecnologia
+- Eu amo Jogos retrô
 
-<div>
-    <a href="mailto:vinicius.cgobbi2004@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/vinicgobbi">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:vinicius.cgobbi@hotmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-</div>
+## Contato
 
-<h2>Sistemas operacionais usados no dia a dia:</h2>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.cgobbi@hotmail.com)
 
-<div>
-    <a href="https://kernel.org">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    </a>
-    <a href="https://www.microsoft.com/pt-br/windows/">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    </a>
-</div>
+## Sistemas operacionais usados no dia a dia
 
-<h2>Linguagens e ferramentas:</h2>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://skillicons.dev/icons?i=git,github,php,laravel,html,css,js,nodejs,linux,vscode&theme=light">
-    </a>
-</div>
+## Linguagens e ferramentas
 
-<h2>Github Stats:</h2>
+[![Skills](https://skillicons.dev/icons?i=git,github,php,laravel,html,css,js,nodejs,linux,vscode&theme=light)](https://github.com/vinicgobbi)
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://readme.vinicgobbi.dev.br/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi&exclude_repo=github-readme-stats" alt="Github Stats">
-        <br>
-        <img src="https://readme.vinicgobbi.dev.br/api/top-langs/?username=vinicgobbi&langs_count=15&&card_width=470px&theme=dracula&exclude_repo=github-readme-stats" alt="Top Langs">
-    </a>
-</div>
+## Github Stats
 
+[![GitHub Streak](https://streak.vinicgobbi.dev.br/?user=vinicgobbi&theme=dracula&exclude_days=Sun%2CSat)](https://github.com/vinicgobbi)
 
+[![Github Stats](https://readme.vinicgobbi.dev.br/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi&exclude_repo=github-readme-stats)](https://github.com/vinicgobbi)
 
-<h2>Misc:</h2>
+[![Top Langs](https://readme.vinicgobbi.dev.br/api/top-langs/?username=vinicgobbi&langs_count=5&layout=pie&card_width=470px&theme=dracula&exclude_repo=github-readme-stats)](https://github.com/vinicgobbi)
 
-<div>
-    <a href="https://github.com/vinicgobbi">
-        <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="Snake Animation">
-    </a>
+## Misc
 
-</div>
-
+[![Snake Animation](https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg)](https://github.com/vinicgobbi)
