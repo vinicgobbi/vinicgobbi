@@ -26,7 +26,7 @@ vinicius at github
 
 ## Linguagens e ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=git,github,php,laravel,html,css,js,nodejs,linux,vscode&theme=light)](https://github.com/vinicgobbi)
+[![Skills](https://skillicons.dev/icons?i=laravel,angular,php,typescript,javascript,react,bootstrap,python,git,github,cloudflare,vscode,docker,linux,windows&theme=dark)](https://github.com/vinicgobbi)
 
 ## Github Stats
 
