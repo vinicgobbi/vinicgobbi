@@ -28,7 +28,7 @@ vinicius@github:~$ whoami
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [🔗 links](https://github.com/vinicgobbi/links) | Reescrita do projeto *links*, migrado para Angular com foco em componentização | TypeScript · Angular |
-| [🐧 post_install](https://github.com/vinicgobbi/post_install) | Script de pós-instalação para distros Linux — porque configurar tudo na mão uma vez já foi suficiente | Shell |
+| [🐧 post-install](https://github.com/vinicgobbi/post-install) | Script de pós-instalação para distros Linux — porque configurar tudo na mão uma vez já foi suficiente | Shell |
 | [🌐 portfólio](https://github.com/vinicgobbi/vinicgobbi.github.io) | Site pessoal onde HTML e CSS viram cartão de visitas | HTML · CSS |
 
 ### 🛠️ Linguagens e ferramentas
