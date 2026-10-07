@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8BE9FD&center=true&vCenter=true&width=560&lines=Ola%2C+eu+sou+o+Vinicius;Estudante+de+Ciencia+da+Computacao;Estagiario+de+TI+na+FAESA;Entusiasta+de+Linux+e+jogos+retro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=560&lines=Ola%2C+eu+sou+o+Vinicius+Gobbi;Desenvolvedor+Full-Stack;Laravel%2C+React+e+Angular;Linux+e+open-source" alt="Olá, eu sou o Vinícius Gobbi — Desenvolvedor Full-Stack" />
 
-[![English version](https://img.shields.io/badge/🇺🇸_read_in-English-002868?style=for-the-badge)](README.en.md)
+**Desenvolvedor Full-Stack** · Laravel, React e Angular · Cariacica, ES — Brasil
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=vinicgobbi&style=for-the-badge&color=8BE9FD&label=Visitas)
+![Aberto a novas oportunidades](https://img.shields.io/badge/●_Aberto_a_novas_oportunidades-15803d?style=flat-square)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinicgobbi.dev.br)
+[![Currículo](https://img.shields.io/badge/Currículo_%28PDF%29-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinicgobbi.dev.br/assets/cv-vinicius-gobbi.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com)
+
+[🇺🇸 Read in English](README.en.md)
 
 </div>
 
@@ -12,62 +19,68 @@
 
 ```sh
 vinicius@github:~$ whoami
-> Dev em formação, movido a café e curiosidade ☕
+> Desenvolvedor Full-Stack movido a café e curiosidade ☕
 ```
 
-### Sobre mim
+### 👋 Sobre mim
 
-- 🎓 Cursando Ciência da Computação na [FAESA](https://faesa.br)
-- 💼 Estagiário de TI na [FAESA](https://faesa.br) — do suporte ao código
-- 🐧 Linux não é só sistema operacional, é estilo de vida
-- 🕹️ Curador pessoal de nostalgia: sempre com um jogo retrô no radar
-- 🌱 Aprendendo algo novo (quase) toda semana
+- 💼 **Desenvolvedor Full-Stack (estágio) na [FAESA](https://faesa.br)** — sistemas acadêmicos e administrativos com Laravel, React e SQL Server, de APIs REST a Stored Procedures
+- 🎓 **Ciência da Computação** na FAESA (2023–2026)
+- 🧩 **Open source:** plugins para o [Omarchy](https://omarchy.org) (Arch + Hyprland) publicados no marketplace oficial
+- 🐧 Linux no dia a dia — e um script para automatizar tudo que dá
+- 🕹️ Nas horas vagas, sempre com um jogo retrô no radar
 
 ### 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 | --- | --- | --- |
-| [🔗 links](https://github.com/vinicgobbi/links) | Reescrita do projeto *links*, migrado para Angular com foco em componentização | TypeScript · Angular |
-| [🐧 post-install](https://github.com/vinicgobbi/post-install) | Script de pós-instalação para distros Linux — porque configurar tudo na mão uma vez já foi suficiente | Shell |
-| [🌐 portfólio](https://github.com/vinicgobbi/vinicgobbi.github.io) | Site pessoal onde HTML e CSS viram cartão de visitas | HTML · CSS |
+| [🧩 Plugins para Omarchy](https://plugins.omarchy.org/index.html?author=vinicgobbi) | Widgets para a barra do Omarchy: Now Bar, clipboard, VPN, mídia, bateria, energia e conexões remotas | QML · Linux |
+| [🌐 Portfólio](https://github.com/vinicgobbi/website) | [vinicgobbi.dev.br](https://vinicgobbi.dev.br) — experiência, projetos e certificações, com currículo em LaTeX compilado por CI | Angular · TypeScript |
+| [🔗 Links](https://github.com/vinicgobbi/links) | [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br) — página de links com atalhos curtos (`/gh`, `/cv`) e QR code | Angular · Netlify |
+| [🐧 Automação de ambiente](https://github.com/vinicgobbi/dots-omarchy) | Pós-instalação e dotfiles para [Linux](https://github.com/vinicgobbi/post-install) e [Windows](https://github.com/vinicgobbi/post-windows): uma máquina nova pronta para desenvolver | Bash · PowerShell |
+| [📁 Extensões do Nautilus](https://github.com/vinicgobbi?tab=repositories&q=nautilus) | Copiar caminho, abrir no VS Code e abrir no terminal pelo menu de contexto do GNOME | Python |
 
-### 🛠️ Linguagens e ferramentas
+> Na FAESA, desenvolvo sistemas internos (indicações, avaliação de alunos de Medicina, agendamento de clínicas, SSO com SAML…). Eles são privados, mas estão descritos no [portfólio](https://vinicgobbi.dev.br/#projetos).
+
+### 🛠️ Tecnologias
 
 <table>
 <tr>
-<td align="center" width="160"><b>🎨 Frontend</b></td>
-<td><a href="https://github.com/vinicgobbi"><img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,bootstrap&theme=dark" alt="Frontend skills" /></a></td>
+<td align="center" width="140"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,postman&theme=dark" alt="Laravel, PHP, Python, MySQL, Postman" /> &nbsp;+ SQL Server</td>
 </tr>
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td><a href="https://github.com/vinicgobbi"><img src="https://skillicons.dev/icons?i=laravel,php,python&theme=dark" alt="Backend skills" /></a></td>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,bootstrap&theme=dark" alt="React, Angular, TypeScript, JavaScript, Bootstrap" /></td>
 </tr>
 <tr>
-<td align="center"><b>🧰 Infra &amp; ferramentas</b></td>
-<td><a href="https://github.com/vinicgobbi"><img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode,linux,windows&theme=dark" alt="Infra & tools skills" /></a></td>
+<td align="center"><b>Ferramentas</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,qt&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Qt/QML" /></td>
 </tr>
 </table>
 
-### 💻 Sistemas operacionais no dia a dia
+### 📊 Estatísticas
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme.vinicgobbi.dev.br/api?show_icons=true&include_all_commits=true&count_private=true&card_width=470px&theme=dracula&locale=pt-br&username=vinicgobbi&exclude_repo=github-readme-stats" />
+  <img alt="Estatísticas do GitHub" src="https://readme.vinicgobbi.dev.br/api?show_icons=true&include_all_commits=true&count_private=true&card_width=470px&theme=default&locale=pt-br&username=vinicgobbi&exclude_repo=github-readme-stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme.vinicgobbi.dev.br/api/top-langs/?username=vinicgobbi&langs_count=5&layout=pie&card_width=470px&theme=dracula&locale=pt-br&exclude_repo=github-readme-stats" />
+  <img alt="Linguagens mais usadas" src="https://readme.vinicgobbi.dev.br/api/top-langs/?username=vinicgobbi&langs_count=5&layout=pie&card_width=470px&theme=default&locale=pt-br&exclude_repo=github-readme-stats" />
+</picture>
 
-### 📊 Estatísticas do GitHub
+### 📫 Vamos conversar?
 
-[![Github Stats](https://readme.vinicgobbi.dev.br/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=470px&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vinicgobbi&exclude_repo=github-readme-stats)](https://github.com/vinicgobbi)
-[![Top Langs](https://readme.vinicgobbi.dev.br/api/top-langs/?username=vinicgobbi&langs_count=5&layout=pie&card_width=470px&theme=dracula&exclude_repo=github-readme-stats)](https://github.com/vinicgobbi)
-
-### 📫 Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.cgobbi@hotmail.com)
+Estou aberto a novas oportunidades. O jeito mais rápido de falar comigo é por [e-mail](mailto:vinicius.cgobbi2004@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/vinicgobbi) — e todos os meus links estão em [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br).
 
 ---
 
 <div align="center">
 
-[![Snake Animation](https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg)](https://github.com/vinicgobbi)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake.svg" />
+</picture>
 
 </div>
