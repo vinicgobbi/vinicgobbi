@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinicgobbi.dev.br)
 [![Resume](https://img.shields.io/badge/Resume_%28PDF%2C_PT--BR%29-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinicgobbi.dev.br/assets/cv-vinicius-gobbi.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.cgobbi2004@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicgobbi@gmail.com)
 
 [🇧🇷 Leia em Português](README.md)
 
@@ -72,7 +72,7 @@ vinicius@github:~$ whoami
 
 ### 📫 Let's talk
 
-I'm open to new opportunities. The fastest way to reach me is by [e-mail](mailto:vinicius.cgobbi2004@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vinicgobbi) — and all my links are at [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br).
+I'm open to new opportunities. The fastest way to reach me is by [e-mail](mailto:vinicgobbi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vinicgobbi) — and all my links are at [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br).
 
 ---
 
