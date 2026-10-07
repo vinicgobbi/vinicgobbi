@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-        - uses: Platane/snk@v3
+        - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
           with:
             # github user name to read the contribution graph from (**required**)
             # using action context var `github.repository_owner` or specified user
@@ -33,7 +33,7 @@ jobs:
                 # a github token is required to fetch the contribution calendar from github API
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-        - uses: crazy-max/ghaction-github-pages@v2.1.3
+        - uses: crazy-max/ghaction-github-pages@361b74e73ccac505c7b5bcbff9b7d6cb0510dc4e # v2.1.3
           with:
             target_branch: output
             build_dir: dist
