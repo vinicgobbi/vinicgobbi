@@ -8,6 +8,7 @@
 [![Currículo](https://img.shields.io/badge/Currículo_%28PDF%29-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinicgobbi.dev.br/assets/cv-vinicius-gobbi.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicgobbi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527997568805)
 
 [🇺🇸 Read in English](README.en.md)
 
@@ -70,7 +71,7 @@ vinicius@github:~$ whoami
 
 ### 📫 Vamos conversar?
 
-Estou aberto a novas oportunidades. O jeito mais rápido de falar comigo é por [e-mail](mailto:vinicgobbi@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/vinicgobbi) — e todos os meus links estão em [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br).
+Estou aberto a novas oportunidades. O jeito mais rápido de falar comigo é por [e-mail](mailto:vinicgobbi@gmail.com), [WhatsApp](https://wa.me/5527997568805) ou [LinkedIn](https://www.linkedin.com/in/vinicgobbi) — e todos os meus links estão em [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br).
 
 ---
 
