@@ -4,8 +4,6 @@
 
 **Full-Stack Developer** · Laravel, React and Angular · Cariacica, ES — Brazil
 
-![Open to new opportunities](https://img.shields.io/badge/●_Open_to_new_opportunities-15803d?style=flat-square)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinicgobbi.dev.br)
 [![Resume](https://img.shields.io/badge/Resume_%28PDF%2C_PT--BR%29-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinicgobbi.dev.br/assets/cv-vinicius-gobbi.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicgobbi)
