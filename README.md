@@ -25,7 +25,7 @@ vinicius@github:~$ whoami
 
 - 💼 **Desenvolvedor Full-Stack (estágio) na [FAESA](https://faesa.br)** — sistemas acadêmicos e administrativos com Laravel, React e SQL Server, de APIs REST a Stored Procedures
 - 🎓 **Ciência da Computação** na FAESA (2023–2026)
-- 🧩 **Open source:** plugins para o [Omarchy](https://omarchy.org) (Arch + Hyprland) publicados no marketplace oficial
+- 🗳️ **Projeto pessoal:** [apuração das eleições](https://resultado.vinicgobbi.dev.br) em tempo real com os dados oficiais do TSE
 - 🐧 Linux no dia a dia — e um script para automatizar tudo que dá
 - 🕹️ Nas horas vagas, sempre com um jogo retrô no radar
 
@@ -33,11 +33,12 @@ vinicius@github:~$ whoami
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [🧩 Plugins para Omarchy](https://plugins.omarchy.org/index.html?author=vinicgobbi) | Widgets para a barra do Omarchy: Now Bar, clipboard, VPN, mídia, bateria, energia e conexões remotas | QML · Linux |
+| [🗳️ Resultados das Eleições](https://github.com/vinicgobbi/resultado) | [resultado.vinicgobbi.dev.br](https://resultado.vinicgobbi.dev.br) — apuração em tempo real com os dados do TSE, do país inteiro até cada município | Laravel · React · Inertia |
 | [🌐 Portfólio](https://github.com/vinicgobbi/website) | [vinicgobbi.dev.br](https://vinicgobbi.dev.br) — experiência, projetos e certificações, com currículo em LaTeX compilado por CI | Angular · TypeScript |
 | [🔗 Links](https://github.com/vinicgobbi/links) | [links.vinicgobbi.dev.br](https://links.vinicgobbi.dev.br) — página de links com atalhos curtos (`/gh`, `/cv`) e QR code | Angular · Netlify |
-| [🐧 Automação de ambiente](https://github.com/vinicgobbi/dots-omarchy) | Pós-instalação e dotfiles para [Linux](https://github.com/vinicgobbi/post-install) e [Windows](https://github.com/vinicgobbi/post-windows): uma máquina nova pronta para desenvolver | Bash · PowerShell |
-| [📁 Extensões do Nautilus](https://github.com/vinicgobbi?tab=repositories&q=nautilus) | Copiar caminho, abrir no VS Code e abrir no terminal pelo menu de contexto do GNOME | Python |
+| [🐧 Automação de ambiente](https://github.com/vinicgobbi/post-install) | Pós-instalação com TUI para [Ubuntu](https://github.com/vinicgobbi/post-install) e [Windows](https://github.com/vinicgobbi/post-windows), além dos [dotfiles](https://github.com/vinicgobbi/dotfiles): uma máquina nova pronta para desenvolver | Go · Bubble Tea |
+| [🚀 Deploy Tools](https://github.com/vinicgobbi/deploy-tools) | Deploy por releases com symlink: build no GitHub Actions, envio por SSH e rollback instantâneo | Go |
+| [📁 Extensões do Nautilus](https://github.com/vinicgobbi/nautilus-copypath) | Copiar o caminho e abrir no VS Code pelo menu de contexto do GNOME | Python |
 
 > Na FAESA, desenvolvo sistemas internos (indicações, avaliação de alunos de Medicina, agendamento de clínicas, SSO com SAML…). Eles são privados, mas estão descritos no [portfólio](https://vinicgobbi.dev.br/#projetos).
 
